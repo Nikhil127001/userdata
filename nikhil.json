@@ -1,4 +1,4 @@
-{ 
+[ 
  {
   "userId": 1,
   "id": "1",
@@ -44,4 +44,4 @@
   "userpostdescription": "hey there is my post description"
 
  },
-}
+]
