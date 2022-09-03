@@ -1,0 +1,47 @@
+{ 
+ {
+  "userId": 1,
+  "id": "1",
+  "username": "Viraj123",
+  "userprofilepicture":"https://picsum.photos/200/300",
+  "userpost": "https://picsum.photos/200/300",
+  "userpostdescription": "hey there is my post description"
+
+ },
+ {
+  "userId": 2,
+  "id": "2",
+  "username": "Neeraj123",
+  "userprofilepicture":"https://picsum.photos/200/300",
+  "userpost": "https://picsum.photos/200/300",
+  "userpostdescription": "hey there is my post description"
+
+ },
+ {
+  "userId": 3,
+  "id": "3",
+  "username": "Sapna123",
+  "userprofilepicture":"https://picsum.photos/200/300",
+  "userpost": "https://picsum.photos/200/300",
+  "userpostdescription": "hey there is my post description"
+
+ },
+ {
+  "userId": 4,
+  "id": "4",
+  "username": "rohan123",
+  "userprofilepicture":"https://picsum.photos/200/300",
+  "userpost": "https://picsum.photos/200/300",
+  "userpostdescription": "hey there is my post description"
+
+ },
+ {
+  "userId": 5,
+  "id": "5",
+  "username": "Sadhana123",
+  "userprofilepicture":"https://picsum.photos/200/300",
+  "userpost": "https://picsum.photos/200/300",
+  "userpostdescription": "hey there is my post description"
+
+ },
+}
